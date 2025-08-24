@@ -74,7 +74,6 @@ Serão aplicados testes automatizados para verificar a confiabilidade do sistema
 
 Equipe
 
-
 Matheus Luiz Teles de França – Scrum Master
 
 
@@ -86,6 +85,14 @@ Victor Ferreira da Silva
 
 Gustavo Sabino dos Santos Piqui
 
+
+Gabriel Vitor Novais da Silva
+
 Contato
 📱 WhatsApp: +55 (61) 99159-9057
 📧 E-mail: matheusluiztrab@gmail.com
+
+
+Video
+
+https://www.youtube.com/watch?v=QXhyHHKnTjY
