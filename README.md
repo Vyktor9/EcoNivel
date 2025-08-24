@@ -1,8 +1,3 @@
-EcoNivel
-
-Nosso projeto visa aumentar a conscientização das pessoas sobre o meio ambiente, tanto jovens quanto adultos, ensinando-as a cuidar dos problemas ambientais que estão sob seu controle, como não jogar bitucas de cigarro em locais secos ou não deixar água parada.
-
-
 Qual o principal objetivo?
 
 O objetivo principal é fazer com que o aplicativo ganhe visibilidade para que as pessoas percebam o que podem melhorar em relação ao meio ambiente. O grupo deseja informar e conscientizar sobre os maus hábitos que vêm sendo praticados e, assim, contribuir para mudanças positivas.
